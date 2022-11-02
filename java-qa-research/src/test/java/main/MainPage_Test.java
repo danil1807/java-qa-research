@@ -17,6 +17,6 @@ public class MainPage_Test {
 
     @Test
     public void firstTest_Test() throws InterruptedException {
-
+        System.out.println("hello world test");
     }
 }
